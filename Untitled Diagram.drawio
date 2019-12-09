@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-12-09T04:26:06.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dgdUeW47gOf0dymcMjw4" version="12.3.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-09T05:19:30.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="G6atpGFdKK8Np8y-QyrR" version="12.3.8" type="github" pages="3">
   <diagram name="货主账户及明细" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1662" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="1c1d494c118603dd-1" value="资金流向图" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="1c1d494c118603dd-1" value="速达汇运费，服务费，保险费流向图" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="1500" height="990" as="geometry"/>
         </mxCell>
         <mxCell id="1c1d494c118603dd-2" value="货主" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
@@ -159,7 +159,7 @@
             <mxPoint x="-8" y="-3" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfNupLPTCF3Zzm_iDnfI-38" value="配载支付保险" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+        <mxCell id="FfNupLPTCF3Zzm_iDnfI-38" value="整车配载保险" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="140" y="860" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-136" value="扣保险" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="FfNupLPTCF3Zzm_iDnfI-39" target="FfNupLPTCF3Zzm_iDnfI-78">
@@ -309,7 +309,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-33" value="增加" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" target="1c1d494c118603dd-9">
-          <mxGeometry x="-0.0021" y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.0157" y="25" relative="1" as="geometry">
             <mxPoint x="210" y="175" as="sourcePoint"/>
             <Array as="points">
               <mxPoint x="550" y="175"/>
