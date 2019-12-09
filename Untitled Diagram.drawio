@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T04:20:58.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DLoDlNisvCDkjfeb8A8k" version="12.3.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-09T04:26:06.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dgdUeW47gOf0dymcMjw4" version="12.3.8" type="github" pages="3">
   <diagram name="货主账户及明细" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1662" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="I3AY7QKZR8Awk9amFQ1F-125" value="余额表" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="20" y="240" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="I3AY7QKZR8Awk9amFQ1F-126" value="流水表" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+        <mxCell id="I3AY7QKZR8Awk9amFQ1F-126" value="明细表" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="20" y="270" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-27" value="减少" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="I3AY7QKZR8Awk9amFQ1F-127" target="I3AY7QKZR8Awk9amFQ1F-125">
@@ -330,7 +330,7 @@
         </mxCell>
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-53" value="增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="FfNupLPTCF3Zzm_iDnfI-52">
           <mxGeometry x="-0.0769" relative="1" as="geometry">
-            <mxPoint as="offset"/>
+            <mxPoint x="2" y="-20" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="FfNupLPTCF3Zzm_iDnfI-107" target="FfNupLPTCF3Zzm_iDnfI-54">
@@ -493,6 +493,11 @@
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-164" value="代收保险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="FfNupLPTCF3Zzm_iDnfI-158">
           <mxGeometry x="0.5304" y="-2" relative="1" as="geometry">
             <mxPoint x="-6.5" y="39" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FfNupLPTCF3Zzm_iDnfI-171" value="代收保险" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="FfNupLPTCF3Zzm_iDnfI-158">
+          <mxGeometry x="-0.3725" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="FfNupLPTCF3Zzm_iDnfI-163" value="代收保险" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" source="FfNupLPTCF3Zzm_iDnfI-70" target="FfNupLPTCF3Zzm_iDnfI-153">
